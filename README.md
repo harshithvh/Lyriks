@@ -1,6 +1,6 @@
 # Lyriks
 
-This is a Music App with a modern homepage, fully-fledged music player that has search, lyrics, song exploration features, popular music around you, worldwide top charts, and much more. Responsive on both web and android devices.
+This is a Music Player App with a modern homepage, fully-fledged music player that has search, lyrics, song exploration features, popular music around you, worldwide top charts, and much more. Responsive on both web and android devices.
 
 Technologies used: React, Tailwind, Redux, API's
 
