@@ -15,6 +15,7 @@ Music Player App
 ### Problem Statement/Opportunity :
 
 ### Project Description :
+Building a simple audio player with basic controls like play, pause, repeat, shuffle, next, previous and seekbar with an interactive GUI, It has the ability to fetch all the songs available on the internet using the search functionality, choose a genre to pick the top songs and top artists, explore the most popular songs in your country, trendings artists and worldwide top charts, data is fetched from unlimited source through API's
 
 ### Primary Azure Technology :
 Azure Bot Service, Web, Static Web Apps
